@@ -13,7 +13,7 @@ sample = """
 Farmers were working hard in the fields, preparing the soil and planting seeds for the next season. The sun was bright, and the air smelled of earth and fresh grass. The Indian Premier League (IPL) is the biggest cricket league in the world. People all over the world watch the matches and cheer for  favourite teams.
 
 
-Terrorism is a big danger to peace g. It causes , creates fear in cities and villages. When such attacks happen, they leave behind that pain. To fight terror, alert security forces, and support from people who care about peace and safety.
+Terrorism is a big danger to peace g. It causes , creates fear in cities and villages. When such attacks happen, they leave behind that pain. To fight terror, alert security forces, and support from people who care about peace  safety.
 """
 
 docs = text_splitter.create_documents([sample])
