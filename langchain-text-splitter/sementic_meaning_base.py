@@ -10,7 +10,7 @@ text_splitter = SemanticChunker(
 )
 
 sample = """
-Farmers were working hard in the fields, preparing the soil and planting seeds for the next season. The sun was bright, and the air smelled of earth and fresh grass. The Indian Premier League (IPL) is the biggest cricket league in the world. People all over the world watch the matches and cheer for  favourite teams.
+Farmers were working hard in the fields, preparing the soil and planting seeds for the next season. The sun was bright, and the air smelled of earth and fresh grass. The Indian Premier League (IPL) is the biggest cricket league in the world. People all over the world watch the matches and cheer for THE   favourite teams.
 
 
 Terrorism is a big danger to peace  , creates fear in cities and villages. When such attacks happen, they leave behind that pain. To fight terror t security forces, and support from people who care about   safety.
